@@ -1,0 +1,12 @@
+.bg_heroe{
+    background-color: #2685a0;
+}
+.img-heroe{
+    border-radius: 50%;
+}
+body{
+    font-family: "Funnel Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+  }
